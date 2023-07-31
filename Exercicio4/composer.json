@@ -1,0 +1,16 @@
+{
+    "name": "tiago/projetodesign",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Tiago\\Projetodesign\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TIAGO ALVES PORTELA PEREZ",
+            "email": "30733976+eutiagoportela@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}

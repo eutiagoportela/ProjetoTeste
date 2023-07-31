@@ -1,4 +1,5 @@
-Projeto se trata de um EAD, onde se cadastra usuarios, por padrão ao gerar o script sql, já vem o usuario admin@gmail.com com senha 123456, para logar e cadastrar o que for necessário.
+Detalhes sobre o Projeto do Exercicio 4:
+ Se trata de um EAD, onde se cadastra usuarios, por padrão ao gerar o script sql, já vem o usuario admin@gmail.com com senha 123456, para logar e cadastrar o que for necessário.
 Este projeto tem Observer para disparar 3 operações após a compra de curso, Strategy para verificar qual desconto o tipo de usuário possui e o Factory, para geração de log no caso tem 3 tipos no projeto inicialmente:
 
  (Observer) - Ao gerar compra de um curso que realiza 3 operações: 
@@ -37,6 +38,8 @@ GeraDescontoCreditoAposCompra.php
 Estudante - 50%
 Admin - 30%
 Comum - 10%
+
+Obs: Para mais detalhes veja a pasta Detalhes do Projeto do Exercicio 4.
 
 
 

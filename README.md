@@ -42,7 +42,7 @@ Comum - 10%
 Obs: Para mais detalhes veja a pasta Detalhes do Projeto do Exercicio 4.
 
 
-<h1>Exercicio 1 - Cadastro Usuários:</h1>h1></br></br>
+<h1>Exercicio 1 - Cadastro Usuários:</h1></br></br>
 Login:</br>
 ![image](https://github.com/eutiagoportela/ProjetoTeste/assets/30733976/50a43d39-89ec-4675-a980-cdb081392103)
 </br>
@@ -52,15 +52,15 @@ Cadastro de Usuário com Criptografia:</br>
 Tela principal para edição e exclusão de usuários:</br>
 ![image](https://github.com/eutiagoportela/ProjetoTeste/assets/30733976/6a1698cc-92d2-444f-a594-db6e8f8da6fe)
 
-<h1>Exercicio 2 - Consulta Repositórios GitHub:</h1>h1></br></br>
+<h1>Exercicio 2 - Consulta Repositórios GitHub:</h1></br></br>
 ![image](https://github.com/eutiagoportela/ProjetoTeste/assets/30733976/442973d0-0d66-4be7-b4f1-2bc67d6c0813)
 
-<h1>Exercicio 3 - Importar CSV :</h1>h1></br></br>
+<h1>Exercicio 3 - Importar CSV :</h1></br></br>
 ![image](https://github.com/eutiagoportela/ProjetoTeste/assets/30733976/7f1890a9-0dfa-4b06-bccd-fa6a74930fe6)
 </br></br>3 tipos de pesquisa proposto no exercício.
 ![image](https://github.com/eutiagoportela/ProjetoTeste/assets/30733976/ccd462b3-26a2-42a3-9ef6-3bd40b1cb73a)
 
-<h1>Exercicio 4 - Projeto com Observer/Strategy/factory :</h1>h1></br></br>
+<h1>Exercicio 4 - Projeto com Observer/Strategy/factory :</h1></br></br>
 Login: Usuario pre cadastrado pelo sql na pasta.</br></br>
 ![image](https://github.com/eutiagoportela/ProjetoTeste/assets/30733976/4a9639ac-ceb6-49fb-b5b3-cf4afc192275)
 

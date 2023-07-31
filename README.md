@@ -57,7 +57,7 @@ Tela principal para edição e exclusão de usuários:</br>
 
 <h1>Exercicio 3 - Importar CSV :</h1></br></br>
 ![image](https://github.com/eutiagoportela/ProjetoTeste/assets/30733976/7f1890a9-0dfa-4b06-bccd-fa6a74930fe6)
-</br></br>3 tipos de pesquisa proposto no exercício.
+</br></br>3 tipos de pesquisa proposto no exercício.</br>
 ![image](https://github.com/eutiagoportela/ProjetoTeste/assets/30733976/ccd462b3-26a2-42a3-9ef6-3bd40b1cb73a)
 
 <h1>Exercicio 4 - Projeto com Observer/Strategy/factory :</h1></br></br>

@@ -47,9 +47,9 @@ Login:</br>
 ![image](https://github.com/eutiagoportela/ProjetoTeste/assets/30733976/50a43d39-89ec-4675-a980-cdb081392103)
 </br>
 </br>
-Cadastro de Usuário com Criptografia:</br>
+</br>Cadastro de Usuário com Criptografia:</br>
 ![image](https://github.com/eutiagoportela/ProjetoTeste/assets/30733976/1f712c1a-8b9a-40ef-ae41-3afd2215d5c7)
-Tela principal para edição e exclusão de usuários:</br>
+</br>Tela principal para edição e exclusão de usuários:</br>
 ![image](https://github.com/eutiagoportela/ProjetoTeste/assets/30733976/6a1698cc-92d2-444f-a594-db6e8f8da6fe)
 
 <h1>Exercicio 2 - Consulta Repositórios GitHub:</h1></br></br>
